@@ -1,91 +1,115 @@
-# Hi there, I'm Arda Savcu 👋
-
 <div align="center">
-  
-### Semi-Stack Developer | Design Enthusiast | Tech Explorer
 
-*6 years of experience in design, technology, and user experience*
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=200&section=header&text=Arda%20Savcu&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Semi-Stack%20Developer%20%7C%206%20Years%20Experience&descAlignY=51&descAlign=50)
 
-[![Website](https://img.shields.io/badge/Website-harda.dev-blue?style=for-the-badge&logo=google-chrome)](https://harda.dev)
-[![GitHub](https://img.shields.io/badge/GitHub-Hardaistee-181717?style=for-the-badge&logo=github)](https://github.com/Hardaistee)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hardaa)
-[![Instagram](https://img.shields.io/badge/Instagram-@hardaistee-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/hardaistee/)
-[![Medium](https://img.shields.io/badge/Medium-@hardaistee-12100E?style=for-the-badge&logo=medium)](https://hardaistee.medium.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Design+%2B+Technology+%2B+User+Experience;Building+Beautiful+%26+Functional+Solutions)](https://git.io/typing-svg)
+
+<p align="center">
+  <a href="https://harda.dev"><img src="https://img.shields.io/badge/🌐_harda.dev-000000?style=for-the-badge"/></a>
+  <a href="https://www.linkedin.com/in/hardaa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://hardaistee.medium.com"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="https://www.instagram.com/hardaistee/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:savcu70@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 </div>
 
----
+<br/>
 
-## 🚀 About Me
+## 🎯 About Me
 
-I'm a **Semi-Stack Developer** with a passion for creating seamless user experiences. With 6 years of hands-on experience, I bridge the gap between design and development, crafting solutions that are both beautiful and functional.
+Semi-Stack developer passionate about creating seamless user experiences at the intersection of design and technology. 
 
-I'm particularly interested in:
-- 🤖 AI-powered development tools and workflows
-- 🎨 User experience and interface design
-- 🛠️ Full-stack development with modern frameworks
-- 📝 Technical writing and knowledge sharing
-
----
-
-## ✍️ Recent Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- 🔮 [**The Future of Full-Stack: An Introduction to v0 and Cursor**](https://hardaistee.medium.com/the-future-of-full-stack-an-introduction-to-v0-and-cursor-dbc6aa3f4f50)  
-  *Meet the next-gen "AI Stack" that merges years of experience with the speed of AI. You're in the director's chair now.*
-
-- 🔐 [**Kodunuz Sadece Sizin Kalsın: Lokal Kod Asistanı Kurulum Rehberi**](https://hardaistee.medium.com/kodunuz-sadece-sizin-kals%C4%B1n-lokal-ai-asistan%C4%B1-kurulum-rehberi-f690014e26dd)  
-  *Kodlarımız gün yüzü görmeden önce OpenAI sunucularının güvensiz yüzünü görebilir.*
-
-- 🎵 [**Gaslight, Gatekeep, Generate: How to fake your Spotify Wrapped before it drops**](https://hardaistee.medium.com/gaslight-gatekeep-generate-how-to-fake-your-spotify-wrapped-before-it-drops-17c5a0e73d10)  
-  *Reality is disappointing. Embrace the delulu and edit your 2025 stats with Recapify.*
-
-- 🤔 [**Var Olmamaktan Korkmak**](https://hardaistee.medium.com/var-olmamaktan-korkmak-ca4ac14aeca8)  
-  *Aslında insan da Tanrı'ya bence bu yüzden inanıyor. Var olmamaktan korktuğu için...*
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 🛠️ Tech Stack & Tools
-
-```text
-Languages:       JavaScript, TypeScript, Python, CSS/SCSS
-Frontend:        React, Next.js, Vue, TailwindCSS
-Backend:         Node.js, Express, REST APIs
-Tools:           Git, VS Code, Cursor AI, v0
-Design:          Figma, UI/UX Design Principles
-AI/ML:           OpenAI API, Local LLMs, AI-assisted development
+**Focus Areas:**
+```typescript
+const arda = {
+    interests: ["AI Development", "UI/UX Design", "Full-Stack Architecture"],
+    currentlyLearning: ["AI-Assisted Development", "Modern Web Frameworks"],
+    toolbox: ["React", "Next.js", "TypeScript", "Node.js"],
+    philosophy: "The future of development is collaborative - between humans and AI"
+};
 ```
 
----
+<br/>
 
-## 📊 GitHub Stats
+## 🛠️ Tech Stack
 
 <div align="center">
-  
-![Arda's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hardaistee&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hardaistee&layout=compact&theme=tokyonight)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
----
+<br/>
 
-## 💬 Let's Connect
+## ✍️ Latest Writing
 
-I'm always interested in new opportunities, collaborations, and conversations about technology and design.
+<table>
+<tr>
+<td width="50%">
 
-- 📧 Email: [savcu70@gmail.com](mailto:savcu70@gmail.com)
-- 🌐 Website: [harda.dev](https://harda.dev)
-- 💼 LinkedIn: [linkedin.com/in/hardaa](https://www.linkedin.com/in/hardaa)
-- 📸 Instagram: [@hardaistee](https://www.instagram.com/hardaistee/)
+### 🔮 AI & Development
+[**The Future of Full-Stack: v0 and Cursor**](https://hardaistee.medium.com/the-future-of-full-stack-an-introduction-to-v0-and-cursor-dbc6aa3f4f50)
 
----
+*The next-gen "AI Stack" merging years of experience with AI speed*
+
+</td>
+<td width="50%">
+
+### 🔐 Privacy & Security
+[**Lokal Kod Asistanı Kurulum Rehberi**](https://hardaistee.medium.com/kodunuz-sadece-sizin-kals%C4%B1n-lokal-ai-asistan%C4%B1-kurulum-rehberi-f690014e26dd)
+
+*Keep your code private with local AI assistants*
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎵 Creative Projects
+[**Fake Your Spotify Wrapped**](https://hardaistee.medium.com/gaslight-gatekeep-generate-how-to-fake-your-spotify-wrapped-before-it-drops-17c5a0e73d10)
+
+*Edit your 2025 stats with Recapify - embrace the delulu*
+
+</td>
+<td width="50%">
+
+### 🤔 Philosophy
+[**Var Olmamaktan Korkmak**](https://hardaistee.medium.com/var-olmamaktan-korkmak-ca4ac14aeca8)
+
+*Reflections on existence and meaning*
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## � Let's Connect
 
 <div align="center">
-  
-### 💭 *"The future of development is collaborative - between humans and AI"*
 
-![Profile Views](https://komarev.com/ghpvc/?username=Hardaistee&color=blueviolet&style=flat-square)
+**Open to collaborations, opportunities, and conversations about tech & design**
+
+<br/>
+
+[![Website](https://img.shields.io/badge/�_Visit_My_Website-harda.dev-blueviolet?style=for-the-badge)](https://harda.dev)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=100&section=footer)
 
 </div>
