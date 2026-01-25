@@ -18,7 +18,7 @@
 
 ## 🎯 About Me
 
-Semi-Stack developer passionate about creating seamless user experiences at the intersection of design and technology. 
+Full-Stack developer passionate about creating seamless user experiences at the intersection of design and technology. 
 
 **Focus Areas:**
 ```typescript
